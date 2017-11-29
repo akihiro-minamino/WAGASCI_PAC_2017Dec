@@ -1,0 +1,2 @@
+# WAGASCI_PAC_2017Dec
+WAGASCI proposal for J-PARC PAC in Dec. 2017
